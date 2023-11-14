@@ -4,4 +4,4 @@ project members:
 Imamova Mushtariybonu
 Arzikulova Nigora
 Turgunova Umida
-Parizoda
+Narzullayeva Parizoda
