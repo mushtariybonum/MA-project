@@ -8,7 +8,7 @@ Narzullayeva Parizoda se13993
 
 Description of mobile application written in **kotlin**
 
-## **Introducing "CookTogether": Your Interactive Recipe Hub**
+## **Introducing "Easy Cook": Your Interactive Recipe Hub**
 
 **Tired of boring cookbooks and impersonal food apps?** Craving a platform where you can **discover delicious recipes, learn from fellow foodies, and share your culinary creations?** Look no further than **Easy cook**, the mobile app that's revolutionizing the way we cook and connect!
 
